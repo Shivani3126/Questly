@@ -17,13 +17,4 @@ Questly is a browser-based **Question Generator** designed to help students stud
 - **PDF.js** — Client-side text extraction from PDF files
 
 ### Live Demo
-[View Live Site](https://shivani3126.github.io/Questly)
-
-## Project Structure
-
-Questly/
-├── index.html        # Main HTML page
-├── style.css         # Styling and dark mode
-├── script.js         # Question generation logic
-├── images/           # Website images and icons
-└── README.md         # Project documentation
+[View Live Site]()
